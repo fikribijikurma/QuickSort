@@ -100,6 +100,10 @@ void display() {
 
 	for (int i = 0; 1 < n; i++)
 	{
-		c
+		cout << arr[i] << " ";
 	}
+
+	cout << "\n\nNumber of comparasions: " << cmp_count << endl;
+	cout << "Number of data comparasions: " << mov_count << endl;
 }
+int main
