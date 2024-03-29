@@ -13,6 +13,7 @@ void input() {
 		cout << "Masukan panjang element array: ";
 		cin >> n;
 
-
+		if (n <= 2)
+			break;
 	}
 }
