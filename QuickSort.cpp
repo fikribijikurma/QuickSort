@@ -23,5 +23,11 @@ void input() {
 	cout << "\nEnter Array Element" << endl;
 	cout << "\n-------------------" << endl;
 
-	for (int i = 0; 1++)
+	for (int i = 0; i < n; i++) 
+	{
+		cout << "<" << (i + 1) << ">";
+		cin >> arr[i];
+	}
 }
+// swaps the element at index x with the element at index y
+void swap
