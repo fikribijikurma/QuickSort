@@ -10,6 +10,9 @@ int n;
 void input() {
 	while (true) 
 	{
-		cout
+		cout << "Masukan panjang element array: ";
+		cin >> n;
+
+
 	}
 }
